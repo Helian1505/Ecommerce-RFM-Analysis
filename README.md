@@ -50,6 +50,8 @@ This analysis uncovered critical insights that directly impact the company's bot
 * **Revenue Focused:** Every chart in this dashboard is designed to answer a business question: *How do we make more money from the customers we already have?*
 
 ---
+
 ## 📬 Let's Connect
 Interested in data-driven growth strategies? 
-[(https://www.linkedin.com/in/helian-fierro-oyola-143798206/)] | [(https://helian1505.github.io/Projects/)]
+
+[LinkedIn](https://www.linkedin.com/in/helian-fierro-oyola-143798206/) | [My Portfolio](https://helian1505.github.io/Projects/)
