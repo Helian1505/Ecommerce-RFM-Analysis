@@ -52,4 +52,4 @@ This analysis uncovered critical insights that directly impact the company's bot
 ---
 ## 📬 Let's Connect
 Interested in data-driven growth strategies? 
-[https://www.linkedin.com/in/helian-fierro-oyola-143798206/] | [[Your Portfolio Link](https://helian1505.github.io/Projects/)]
+(https://www.linkedin.com/in/helian-fierro-oyola-143798206/) | (https://helian1505.github.io/Projects/)
